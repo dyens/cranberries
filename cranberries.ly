@@ -48,13 +48,13 @@ lead_part = \relative c'' {
   
   aes4. r8 f [g] f [g] f4 r8 ees8 aes4 aes4 (aes4) r8 aes8 aes [bes] aes [g] f4. r8 f8 g f [ees]
   
-  f4. r8 f g f [ees] des4 r4 r4 ees c r2. r1
+  f4. r8 f g f [ees] des4 r4 r4 ees c r2. r1 \break
   
-  r2 r8 f f ees f g4 ees8 (ees2) r4 g8 g~ \tuplet 3/2 { g4 f ees } \tuplet 3/2 { f g ees~ } ees2 aes2 aes2 
+  r2 r8 f \f f ees f g4 ees8 (ees2) r4 g8 g~ \tuplet 3/2 { g4 f ees } \tuplet 3/2 { f g ees~ } ees2 aes2 aes2 
   
   aes4 aes8 aes8 (aes8) aes8 (g4 f) f8 [ees] f4 f8 g (g4) g8 g (g) g g ([aes] aes1)
   
-  r2 aes8 aes aes ([g]) f4. r4. f8 f8 (f [g]) g g (g) aes aes4 (aes4.) r8 aes8 [bes] aes [g]
+  r2 aes8 aes aes ([g]) \break f4. r4. f8 f8 (f [g]) g g (g) aes aes4 (aes4.) r8 aes8 [bes] aes [g]
   
   f4. r8 f [g] f [ees] f4. r8 f [g] f [ees] ees2 r4 ees4 ees1
 
@@ -86,11 +86,11 @@ soprano = \relative c'' {
   
   aes4. b8\rest f [g] f [g] aes4 b8\rest ees, aes4 des4 (c) b8\rest c8 c [ees] c [bes] aes4. b8\rest aes c aes [g]
   
-  f4. b8\rest f8 g f [ees] des1 b'1\rest b1\rest b2\rest b8\rest f8 f ees f g4 bes8 (bes4) c8 [des] b4\rest g8 g~ \tuplet 3/2 { aes4 f f } \tuplet 3/2 { f g g~ } g2 c2 c2
+  f4. b8\rest f8 g f [ees] des1 b'1\rest b1\rest b2\rest b8\rest f8 \f f ees f g4 bes8 (bes4) c8 [des] b4\rest g8 g~ \tuplet 3/2 { aes4 f f } \tuplet 3/2 { f g g~ } g2 c2 c2
   
   c4 c8 c8 (c8) c8 (ees4 des) des8 [c] des4 c8 bes (bes4) bes8 bes (bes) bes bes [c] (c2.) des8-> aes 
   
-  (aes4) b4\rest aes8 aes8 aes4 (aes1^"Сопр. закрытым ртом") bes aes4. b8\rest c [ees] c [bes]
+  (aes4) b4\rest aes8 aes8 aes4 (aes1) bes aes4. b8\rest c [ees] c [bes]
   
   aes4. b8\rest aes8 [c] aes [g] aes4. r8 aes [c] aes [g] aes (g4.) b4\rest aes4 aes1
   
@@ -158,7 +158,7 @@ tenor = \relative c' {
   
   aes1 bes aes2. aes4 aes2 aes4 aes4
   
-  aes1 bes (aes2.) (bes4) (aes2.) d,4\rest c'1 (c2) bes  c~ \tuplet 3/2 { c4 c c } c c bes2 aes aes
+  aes1 bes (aes2.) (bes4) (aes2.) d,4\rest c'1 \ff (c2) bes  c~ \tuplet 3/2 { c4 c c } c c bes2 aes aes
  
   aes2. bes4 aes1 bes aes2. (bes4 aes2) c8 c c [bes] aes4. r4. aes8 aes (aes [ees']) ees ees (ees) des c4 (c4.) r8 r2
   
