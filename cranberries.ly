@@ -86,7 +86,7 @@ soprano = \relative c'' {
   
   aes4. b8\rest f [g] f [g] aes4 b8\rest ees, aes4 des4 (c) b8\rest c8 c [ees] c [bes] aes4. b8\rest aes c aes [g]
   
-  f4. b8\rest f8 g f [ees] des1 b'1\rest b1\rest b2\rest b8\rest f8 \f f ees f g4 bes8 (bes4) c8 [des] b4\rest g8 g~ \tuplet 3/2 { aes4 f f } \tuplet 3/2 { f g g~ } g2 c2 c2
+  f4. b8\rest f8 g f [ees] des1 b'1\rest b1\rest b2\rest b8\rest f8 \f f ees f g4 bes8 (bes4) c8 [des] r4 g,8 g~ \tuplet 3/2 { aes4 f f } \tuplet 3/2 { f g g~ } g2 c2 c2
   
   c4 c8 c8 (c8) c8 (ees4 des) des8 [c] des4 c8 bes (bes4) bes8 bes (bes) bes bes [c] (c2.) des8-> aes 
   
@@ -125,7 +125,7 @@ alto = \relative c' {
   
   des4. s8 des des des4 bes1 c2. (des4) (c2.) r4
   
-  f1 f2 ees s4 f8 f~ \tuplet 3/2 { f4 f f } \tuplet 3/2 { f g ees~ } ees2 ees2 ees2
+  f1 f2 ees f4 f8 f~ \tuplet 3/2 { f4 f f } \tuplet 3/2 { f g ees~ } ees2 ees2 ees2
   
   ees4 ees8 ees~ ees ees (ees4 des4) des des des8 ees8 (ees4) ees8 ees8~ ees8 ees8 ees4 (ees2.) (des4)
   
@@ -255,7 +255,7 @@ sopranoVerse = \lyricmode {
   You'll al ways be spe cial to me,
   Spe cial to me, to me.
   
-  U... _ _ _ _ _ _ _ _ _ _ _
+  U... _ _ _ _ _ _ _ _ _ _ U__hu
   
   But they say U...
   Was it all a waste of time.
@@ -295,7 +295,7 @@ altoVerse = \lyricmode {
   You'll al ways be spe cial to 
   
   me, Spe cial to me. Tu
-  A A A You said I was on your mind?
+  A A A A You said I was on your mind?
   
   There's no need to ar gue, no need to ar gue a ny more. _ Tu
   
