@@ -162,7 +162,7 @@ bass = \relative c {
   
   des,1 ees1 aes1 (aes2) (aes,2)
   
-  des1 ees4 des g2 aes4 g f ees f2 f4 ees
+  des1 ees4 f g2 aes4 g f ees f2 f4 ees
   
   des1 ees ees2. ees4 f2 f4 ees
   
